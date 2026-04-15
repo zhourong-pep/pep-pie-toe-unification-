@@ -16,7 +16,7 @@ PEP-ΠE-TOE V6.5 establishes direct connection between modular curves and Standa
 - 144 = |W(G₂)|² = 12²
 
 ### 📥 Download
-- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe/releases)
+- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe-unification-/releases/tag/v6.5)
 - File: `PEP_PiE_TOE_V6.5.tex`
 
 ### 👥 Authors
