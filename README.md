@@ -1,34 +1,33 @@
-## 📢 最新版本：V6.5 (2026-04-15)
+## 📢 Latest Release: V6.5 (April 15, 2026)
 
-### 🎯 核心突破：模曲线统一框架
+### 🎯 Breakthrough: Modular Curves Unification
 
-PEP-ΠE-TOE V6.5 建立了**模曲线与标准模型参数的直接联系**：
+PEP-ΠE-TOE V6.5 establishes direct connection between modular curves and Standard Model parameters:
 
-| 物理参数 | 公式 | 来源 | 精度 |
+| Parameter | Formula | Origin | Precision |
 |:---|:---|:---|:---:|
-| **强耦合常数 α_s** | 17/144 = 17/\|W(G₂)\|² | X(17) 模曲线 | **0.13%** |
-| **CKM θ₁₃** | π/21 | X(21) 平均尖点宽度 | 精确 |
-| **sin²θ₁₃** | π²/441 | X(21) 几何 | **0.09%** |
+| **Strong coupling α_s** | 17/144 = 17/\|W(G₂)\|² | X(17) modular curve | **0.13%** |
+| **CKM θ₁₃** | π/21 | X(21) average cusp width | Exact |
+| **sin²θ₁₃** | π²/441 | X(21) geometry | **0.09%** |
 
-### 🔬 数学结构
+### 🔬 Mathematical Structure
 - **dim M₂(Γ(17)) = 150 = 144 + 6 = |W(G₂)|² + dim(χ₄)**
-- 揭示 **G₂ ⊃ PSL₂(7)** 嵌入
+- Reveals **G₂ ⊃ PSL₂(7)** embedding
 - 144 = |W(G₂)|² = 12²
 
-### 📥 下载
-- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe/releases/v6.5)
-- [Gitee Release v6.5](https://gitee.com/zhourong-pep/pep-pie-toe/releases/v6.5)
-- 文件：`pep_pie_toe_v6_5.tex`
+### 📥 Download
+- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe/releases)
+- File: `PEP_PiE_TOE_V6.5.tex`
 
-### 👥 作者
-Kimi, DeepSeek | 项目领导：周柱荣 (Zhou Zhu Rong)
+### 👥 Authors
+Kimi, DeepSeek | Project Lead: Zhou Zhu Rong (周柱荣)
 
 ---
 
-## 📚 版本历史
+## 📚 Version History
 
-| 版本 | 日期 | 核心内容 |
+| Version | Date | Key Feature |
 |:---:|:---:|:---|
-| **V6.5** | 2026-04-15 | 模曲线统一框架 (X(17), X(21)) |
-| V5.1 | 2026-04-12 | 第一代费米子完整对应 |
-| V1.0 | 2026-04-09 | 初始框架，19参数公式 |
+| **V6.5** | 2026-04-15 | Modular curves unification (X(17), X(21)) |
+| V5.1 | 2026-04-12 | First generation fermions complete |
+| V1.0 | 2026-04-09 | Initial framework, 19 parameters |
