@@ -16,8 +16,8 @@ PEP-ΠE-TOE V6.5 建立了**模曲线与标准模型参数的直接联系**：
 - 144 = |W(G₂)|² = 12²
 
 ### 📥 下载
-- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe/releases/tag/v6.5)
-- [Gitee Release v6.5](https://gitee.com/zhourong-pep/pep-pie-toe/releases/tag/v6.5)
+- [GitHub Release v6.5](https://github.com/zhourong-pep/pep-pie-toe/releases/v6.5)
+- [Gitee Release v6.5](https://gitee.com/zhourong-pep/pep-pie-toe/releases/v6.5)
 - 文件：`pep_pie_toe_v6_5.tex`
 
 ### 👥 作者
